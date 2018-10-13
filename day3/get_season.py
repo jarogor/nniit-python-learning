@@ -1,3 +1,16 @@
+import sys
+
+sys.path.append('.')
+
+from helper import input_number
+
+
+def get_season(num):
+    seasons = ['Зима', 'Весна', 'Лето', 'Осень']
+    return seasons[num]
+
+
+@input_number
 def get_month(num=1):
     """
     Время года по номеру месяца
@@ -14,13 +27,4 @@ def get_month(num=1):
         return "Как ни странно, но в году всего 12 месяцев."
 
 
-def get_season(num):
-    seasons = ['Зима', 'Весна', 'Лето', 'Осень']
-    return seasons[num]
-
-
-try:
-    input_value = int(input("Номер месяца: "))
-    print(get_month(input_value))
-except ValueError:
-    print("Номер месяца должен быть числом")
+print(get_month(input("Введите номер месяца: "), "Номер месяца должен быть числом"))

@@ -21,4 +21,6 @@ def custom_abs(x):
 
 
 input_value = input("Введите целое число: ")
-print(custom_abs(input_value, "[Ошибка]: Введённое значение не является числом."))
+message_error = "[Ошибка]: Введённое значение не является числом."
+
+print(custom_abs(input_value, message_error))

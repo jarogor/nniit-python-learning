@@ -6,7 +6,7 @@ from helper import input_number
 
 
 @input_number
-def is_simple(x):
+def is_prime(x):
     """
     Является ли число простым
 
@@ -17,6 +17,9 @@ def is_simple(x):
     if x <= 0:
         return "Число не натуральное"
 
+    if x > 1000:
+        return "Число слишком большое"
+
     if x == 1:
         return "Число простое"
 
@@ -26,7 +29,7 @@ def is_simple(x):
     return "Число простое"
 
 
-input_value = input("Введите натуральное число: ")
+input_value = input("Введите натуральное число от 0 до 1000: ")
 message_error = "[Ошибка]: Введённое значение не является числом."
 
-print(is_simple(input_value, message_error))
+print(is_prime(input_value, message_error))

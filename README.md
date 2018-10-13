@@ -11,8 +11,6 @@
 ### День 3
 
 - [decorators.py](https://github.com/jarogor/nniit-python-learning/tree/master/decorators.py) — Декораторы
-
-
 - [day3/0_get_season.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/0_get_season.py) — Время года по номеру месяца
 - [day3/1_is_prime.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/1_is_prime.py) — Является ли число простым 
 - [day3/2_abs.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/2_abs.py) — Модуль числа

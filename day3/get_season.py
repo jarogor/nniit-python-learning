@@ -27,4 +27,7 @@ def get_month(num=1):
         return "Как ни странно, но в году всего 12 месяцев."
 
 
-print(get_month(input("Введите номер месяца: "), "Номер месяца должен быть числом"))
+input_value = input("Введите номер месяца: ")
+message_error = "Номер месяца должен быть числом"
+
+print(get_month(input_value, message_error))

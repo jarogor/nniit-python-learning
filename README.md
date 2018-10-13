@@ -16,4 +16,3 @@
 - [day3/2_abs.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/2_abs.py) — Модуль числа
 - [day3/3_wave.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/3_wave.py) — Создание списка вариантов введённой строки с одной прописной буквой в каждом
 - [day3/4_oop_man_pupil.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/4_oop_man_pupil.py) — Создание класса Man и наследника Pupil
-

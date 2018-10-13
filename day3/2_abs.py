@@ -2,7 +2,7 @@ import sys
 
 sys.path.append('.')
 
-from helper import input_number
+from decorators import input_number
 
 
 @input_number

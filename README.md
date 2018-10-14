@@ -11,15 +11,15 @@
 ### День 3
 
 - [decorators.py](https://github.com/jarogor/nniit-python-learning/tree/master/decorators.py) — Декораторы:
-    - Декоратор обработки ввода числа
-    - Декоратор замера времени работы функции
-- [day3/0_get_season.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/0_get_season.py) — Время года по номеру месяца
-- [day3/1_is_prime.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/1_is_prime.py) — Является ли число простым 
-- [day3/2_abs.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/2_abs.py) — Модуль числа
-- [day3/3_wave.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/3_wave.py) — Создание списка вариантов введённой строки с одной прописной буквой в каждом
-- [day3/4_factorial_loop.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/4_factorial_loop.py) — Факториал числа вычисленный в цикле
-- [day3/5_factorial_recursive.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/5_factorial_recursive.py) — Факториал числа вычисленный рекурсивно
-- [day3/6_max.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/6_max.py) — Возвращает максимальное значение из множества
-- [day3/oop_1_man_pupil.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/oop_1_man_pupil.py) — Создание класса Man и наследника Pupil
-- [day3/oop_2_composite.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/oop_2_composite.py) — Паттерн Компоновщик
-- [day3/oop_3_wrap_str_to_file.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/oop_3_wrap_str_to_file.py) — Вычисляемое свойство для записи и чтения файла
+    - Декоратор обработки ввода числа.
+    - Декоратор замера времени работы функции.
+- [day3/0_get_season.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/0_get_season.py) — Время года по номеру месяца.
+- [day3/1_is_prime.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/1_is_prime.py) — Является ли число простым. 
+- [day3/2_abs.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/2_abs.py) — Модуль числа.
+- [day3/3_wave.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/3_wave.py) — Создание списка вариантов введённой строки с одной прописной буквой в каждом.
+- [day3/4_factorial_loop.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/4_factorial_loop.py) — Факториал числа вычисленный в цикле.
+- [day3/5_factorial_recursive.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/5_factorial_recursive.py) — Факториал числа вычисленный рекурсивно.
+- [day3/6_max.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/6_max.py) — Возвращает максимальное значение из множества.
+- [day3/oop_1_man_pupil.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/oop_1_man_pupil.py) — Создание класса Man и наследника Pupil.
+- [day3/oop_2_composite.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/oop_2_composite.py) — Паттерн Компоновщик.
+- [day3/oop_3_wrap_str_to_file.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/oop_3_wrap_str_to_file.py) — Вычисляемое свойство для записи и чтения файла.

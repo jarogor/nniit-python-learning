@@ -20,9 +20,13 @@ def timeit(fn):
     Декоратор замера времени работы функции
     """
 
-    def wrap(*args):
-        start_time = time()
-        fn(*args)
-        print(f'Время выполнения функци: {time() - start_time}')
+    def wrap(*args, **kwargs):
+        time_start = time()
+        result = fn(*args, **kwargs)
+        time_end = time()
+
+        print(f'Время выполнения функци: {time_end - time_start}')
+
+        return result
 
     return wrap

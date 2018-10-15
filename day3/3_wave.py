@@ -7,12 +7,12 @@ def wave(name):
     """
 
     name = name.lower()
-    length = len(name) - 1
+    index = len(name) - 1
     result = []
 
-    while length >= 0:
-        result.append(name[:length] + name[length].upper() + name[length + 1:])
-        length = length - 1
+    while index >= 0:
+        result.append(name[:index] + name[index].upper() + name[index + 1:])
+        index = index - 1
 
     return result
 

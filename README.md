@@ -23,3 +23,6 @@
 - [day3/oop_1_man_pupil.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/oop_1_man_pupil.py) — Создание класса Man и наследника Pupil.
 - [day3/oop_2_composite.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/oop_2_composite.py) — Паттерн Компоновщик.
 - [day3/oop_3_wrap_str_to_file.py](https://github.com/jarogor/nniit-python-learning/tree/master/day3/oop_3_wrap_str_to_file.py) — Вычисляемое свойство для записи и чтения файла.
+
+### День 4
+- [day4/counts_file_contents.py](https://github.com/jarogor/nniit-python-learning/tree/master/day4/counts_file_contents.py) — Подсчёт слов, строк и чисел в файле.

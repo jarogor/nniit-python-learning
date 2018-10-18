@@ -1,4 +1,5 @@
-from time import time
+from time import time, sleep
+from random import random
 
 
 class TimeManager:
@@ -15,3 +16,7 @@ class TimeManager:
         print("Имя модуля: {}".format(__name__))
         print("Время выполнения: {}".format(time() - self.start))
 
+
+with TimeManager():
+    sleep(random())
+    print("Имя модуля: {}".format(__name__))

@@ -18,7 +18,7 @@ def str_length(l):
     :param l:
     :return:
     """
-    return list(itertools.takewhile(lambda x: len(x) >= 5, l))
+    return list(itertools.filterfalse(lambda x: not len(x) >= 5, l))
 
 
 def str_combination(string):

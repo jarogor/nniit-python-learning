@@ -30,5 +30,8 @@
 - [day4/cm_timeit.py](https://github.com/jarogor/nniit-python-learning/tree/master/day4/cm_timeit.py) — Менеджер контекста замеряющий время.
 - [day4/createdatedir.py](https://github.com/jarogor/nniit-python-learning/tree/master/day4/createdatedir.py) — Утилитa создания по указанному пути директории с заданной датой в качестве названия.
 
+### День 5
+- [day4/threading.py](https://github.com/jarogor/nniit-python-learning/tree/master/day4/threading.py) — Потоки.
+
 ### Прочее
 - [pi.py](https://github.com/jarogor/nniit-python-learning/tree/master/pi.py) — Вычисление Пи.

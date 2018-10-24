@@ -31,7 +31,7 @@
 - [day4/createdatedir.py](https://github.com/jarogor/nniit-python-learning/tree/master/day4/createdatedir.py) — Утилитa создания по указанному пути директории с заданной датой в качестве названия.
 
 ### День 5
-- [day4/threading.py](https://github.com/jarogor/nniit-python-learning/tree/master/day4/threading.py) — Потоки.
+- [day5/threading.py](https://github.com/jarogor/nniit-python-learning/tree/master/day5/threading.py) — Потоки.
 
 ### Прочее
 - [pi.py](https://github.com/jarogor/nniit-python-learning/tree/master/pi.py) — Вычисление Пи.

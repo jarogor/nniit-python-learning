@@ -36,3 +36,4 @@
 ### Прочее
 - [pi.py](https://github.com/jarogor/nniit-python-learning/tree/master/pi.py) — Вычисление Пи.
 - [get_lucky.py](https://github.com/jarogor/nniit-python-learning/tree/master/get_lucky.py) — Проверка наличия цифры 7 в цифрах массива.
+- [Rectangle.py](https://github.com/jarogor/nniit-python-learning/tree/master/Rectangle.py) — Прямоугольник с возможностью сравнения по площади.

@@ -29,3 +29,6 @@
 - [day4/itertools.py](https://github.com/jarogor/nniit-python-learning/tree/master/day4/itertools.py) — Слияние списков, фильтрация списка строк, перебор комбинаций.
 - [day4/cm_timeit.py](https://github.com/jarogor/nniit-python-learning/tree/master/day4/cm_timeit.py) — Менеджер контекста замеряющий время.
 - [day4/createdatedir.py](https://github.com/jarogor/nniit-python-learning/tree/master/day4/createdatedir.py) — Утилитa создания по указанному пути директории с заданной датой в качестве названия.
+
+### Прочее
+- [pi.py](https://github.com/jarogor/nniit-python-learning/tree/master/pi.py) — Вычисление Пи.
